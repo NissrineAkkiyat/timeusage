@@ -1,12 +1,13 @@
 # coursera-spark-scala-timeusage
-coursera - Big Data Analysis with Scala and Spark - week 2 - stackoverflow analysis
+coursera - Big Data Analysis with Scala and Spark - week 2 - timeusage analysis
 
 https://www.coursera.org/learn/scala-spark-big-data/home/week/4
 
 To start, first download the assignment: 
+
 https://moocs.scala-lang.org/~dockermoocs/handouts/scala-3/timeusage.zip
 
-. For this assignment, you also need to download the data (164 MB):
+For this assignment, you also need to download the data (164 MB):
 
 https://moocs.scala-lang.org/~dockermoocs/bigdata/atussum.csv
 
